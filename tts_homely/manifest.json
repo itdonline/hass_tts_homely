@@ -1,0 +1,12 @@
+{
+  "domain": "tts_homely",
+  "name": "tts homely",
+  "documentation": "https://www.home-assistant.io/components/google_translate",
+  "requirements": [
+    "gTTS-token==1.1.3"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@awarecan"
+  ]
+}
