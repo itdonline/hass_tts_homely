@@ -2,7 +2,10 @@
 Vietnamese multi voice Text to speech for [Home Assistant](https://home-assistant.io/)
 Extenting google transtalte for TTS function of HASS that Support Vietnamse voice from FPT speech
 ## Setup:
-Download folder to: <config dir>/custom_components/
+Download folder to: 
+```
+<config dir>/custom_components/
+```
   
 Edit the configuration:
 
