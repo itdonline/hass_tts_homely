@@ -3,10 +3,15 @@ Vietnamese multi voice Text to speech for [Home Assistant](https://home-assistan
 Extenting google transtalte for TTS function of HASS that Support Vietnamse voice from FPT speech
 ## Setup:
 Download folder to: <config dir>/custom_components/
+  
 Edit the configuration:
+
 Get FPT speech api: [https://console.fpt.ai](https://console.fpt.ai)
+
 Replace the api_key in the config
+
 Replace voice_type to change vietnamese voice
+
 ##
 ```
 tts:  
@@ -17,3 +22,4 @@ tts:
     #nam_mien_bac nu_mien_bac nu_mien_nam nu_hue
     voice_type: 'nu_mien_nam'
 ```
+Enjoy Vietnamse voice :D
