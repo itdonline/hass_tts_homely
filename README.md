@@ -1,4 +1,4 @@
-# [hass_tts_homely]
+# HASS tts_homely
 Vietnamese multi voice Text to speech for [Home Assistant](https://home-assistant.io/)
 Extenting google transtalte for TTS function of HASS that Support Vietnamse voice from FPT speech
 ## Setup:
